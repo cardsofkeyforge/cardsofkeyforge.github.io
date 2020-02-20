@@ -1,0 +1,13 @@
+- name: Conjuntos
+  link: /#
+  dropdown:
+    - name: O Chamado dos Arcontes
+      link: /cota/
+    - name: A Era da Ascensão
+      link: /aoa/
+    - name: Colisão entre Mundos
+      link: /wc/
+    - name: Anomalias
+      link: /anomaly/
+- name: Cockatrice
+  link: /cockatrice/

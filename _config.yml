@@ -1,0 +1,62 @@
+# Site Settings
+title: Cards of KeyForge
+tagline: cards keyforge json xml cockatrice
+email: fortran.gamer@gmail.com
+description: >
+  Banco de dados com todas as cartas de KeyForge - JSON/XML
+baseurl: ""
+url: "https://cardsofkeyforge.github.io"
+permalink: pretty
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  # shortname: my_disqus_shortname
+
+theme: bulma-clean-theme
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
+
+exclude:
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "FORTRAN"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true
+
+markdown: kramdown
+highlighter: rouge
