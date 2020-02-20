@@ -2,7 +2,6 @@
 title: Cards of KeyForge
 subtitle: Banco de dados com todas as cartas de KeyForge - JSON/XML
 layout: page
-hide_footer: true
 ---
 
 # Bem-vindo ao Cards of KeyForge
