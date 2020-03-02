@@ -9,8 +9,8 @@ layout: page
 Este _site_ contém uma _engine_ de busca para todas as cartas de **KeyForge**. As cartas estão separadas por conjunto e é possível baixar alguns artefatos
 como, por exemplo, arquivos `JSON` e `XML`. Estes últimos compatíveis com [Cockatrice](https://cockatrice.github.io).
 
-[![json](https://img.shields.io/badge/JSON-github-blue)](https://github.com/cardsofkeyforge/json)
-[![xml](https://img.shields.io/badge/XML-github-green)](https://github.com/cardsofkeyforge/json)
+[![json](https://img.shields.io/badge/JSON-github-blue)](https://github.com/cardsofkeyforge/json/tree/master/json/pt)
+[![xml](https://img.shields.io/badge/XML-github-green)](https://github.com/cardsofkeyforge/json/tree/master/xml/pt)
 
 ## O Chamado dos Arcontes
 
