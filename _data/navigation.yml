@@ -7,7 +7,5 @@
       link: /aoa/
     - name: Colisão entre Mundos
       link: /wc/
-    - name: Anomalias
-      link: /anomaly/
-- name: Cockatrice
-  link: /cockatrice/
+- name: Publicações
+  link: /blog/
