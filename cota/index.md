@@ -19,7 +19,7 @@ O Chamado dos Arcontes também introduzio o conceito de **Mavericks**: cartas ex
 | Número | 1 |
 | Símbolo | ![cota](https://archonarcana.com/images/thumb/0/0d/Cota.png/19px-Cota.png) |
 | Lançamento | 15 de novembro de 2018 |
-| Cartas | [370](https://archonarcana.com/Card_Gallery?category=CotA&DPL_arg1=&DPL_arg3=&DPL_arg2=CotA&title=) |
+| Cartas | [370](cards) |
 | Cartas Inéditas | 370 |
 | Projetista | Richard Garfield |
 | Projeto e Desenvolvimento | Brad Andres, Skaff Elias e Nate French com Daniel Schaefer |

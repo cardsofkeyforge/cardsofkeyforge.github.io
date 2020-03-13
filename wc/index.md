@@ -26,9 +26,9 @@ Existem 10 Anomalias disponíveis em Colisão entre Mundos (estas em adicional �
 | Número | 3 |
 | Símbolo | ![wc](https://archonarcana.com/images/thumb/b/b7/Wc.png/19px-Wc.png) |
 | Lançamento | 8 de novembro de 2019 |
-| Cartas | [405](https://archonarcana.com/Card_Gallery?category=WC&DPL_arg1=&DPL_arg3=&DPL_arg2=WC&title=) |
+| Cartas | [405](cards) |
 | Cartas Inéditas | 284 |
-| Anomalias | [10](https://archonarcana.com/Card_Gallery?category=WC-A&DPL_arg1=&DPL_arg3=&DPL_arg2=WC-A&title=) |
+| Anomalias | [10](anomalies) |
 | Projetista | Richard Garfield |
 | Projeto e Desenvolvimento | Brad Andres, Skaff Elias, Richard Garfield, Aaron Haltom e Daniel Schaefer |
 | Idiomas | 11: inglês, francês, alemão, italiano, polonês, português, espanhol, chinês simplificado, chinês tradicional, tailandês e russo |

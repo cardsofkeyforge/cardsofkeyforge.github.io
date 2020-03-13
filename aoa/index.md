@@ -19,7 +19,7 @@ distribuidas entre as mesmas 7 casas anteriores: Brobnar, Dis, Logos, Marte, San
 | Número | 2 |
 | Símbolo | ![aoa](https://archonarcana.com/images/thumb/a/a9/Aoa.png/19px-Aoa.png) |
 | Lançamento | 30 de maio de 2019 |
-| Cartas | [370](https://archonarcana.com/Card_Gallery?category=AoA&DPL_arg1=&DPL_arg3=&DPL_arg2=AoA&title=) |
+| Cartas | [370](cards) |
 | Cartas Inéditas | 204 |
 | Projetista | Richard Garfield |
 | Projeto e Desenvolvimento | Brad Andres, Skaff Elias e Richard Garfield |
