@@ -406,7 +406,7 @@ hero_image: https://archonarcana.com/images/0/07/Starter-wc.jpg
 | [394](/wc/394) | Nepeta Gigântica |
 | [395](/wc/395) | Mata Selvagem |
 | [396](/wc/396) | Macacos-Piranha |
-| [397](/wc/397) | Pixies do Po |
+| [397](/wc/397) | Pixies do Pó |
 | [398](/wc/398) | Equilíbrio Pontuado |
 | [399](/wc/399) | Areia Movediça |
 | [400](/wc/400) | Roxador |

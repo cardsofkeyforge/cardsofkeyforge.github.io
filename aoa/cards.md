@@ -371,7 +371,7 @@ hero_image: https://archonarcana.com/images/c/c6/Starter-aoa.jpg
 | [359](/aoa/359) | Tigre Poderoso |
 | [360](/aoa/360) | Mata Selvagem |
 | [361](/aoa/361) | Macacos-Piranha |
-| [362](/aoa/362) | Pixies do Po |
+| [362](/aoa/362) | Pixies do Pó |
 | [363](/aoa/363) | Equilíbrio Pontuado |
 | [364](/aoa/364) | Areia Movediça |
 | [365](/aoa/365) | Roxador |
