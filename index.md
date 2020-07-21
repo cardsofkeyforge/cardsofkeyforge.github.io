@@ -34,3 +34,13 @@ Este foi o primeiro conjunto a incluir novas casas, trazendo as casas Sauro e Al
 O total de cartas neste conjunto foi de 405 cartas, das quais 284 são novas e 121 dos dois conjuntos anteriores. O aumento no número de cartas
 presentes neste conjunto ocorreu por causa de um número maior de cartas especiais, enquanto que o número de cartas “base” por casa é o mesmo
 que nos conjuntos anteriores, tipicamente 52.
+
+## Mutação em Massa
+
+Mutação em Massa é o quarto conjunto KeyForge, anunciado em uma transmissão ao vivo da FFG em 30 de janeiro de 2020 e lançado em 29 de maio de 2020
+na China e Taiwan e em 10 de julho de 2020 em todo o mundo.
+
+Inclui 259 novas cartas, num total de 422 cartas, tornando-se o maior conjunto até então. É o primeiro conjunto completamente projetado pela equipe de
+_design_ da FFG, com Richard Garfield envolvido apenas em um papel de consultor. A casa de Sanctum voltou depois de estar ausente no Colisão entre Mundos,
+mas a casa Brobnar foi retirada pela primeira vez. Enquanto Sanctum está retornando ao conjunto Mutação em Massa, ele tem um estilo ligeiramente diferente
+da casa Sanctum dos conjuntos anteriores.

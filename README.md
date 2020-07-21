@@ -1,3 +1,3 @@
-#### Versão `0.3.2`
+#### Versão `0.4.0`
 
 Código para o GitHub Pages de `Cards of KeyForge`: https://cardsofkeyforge.github.io
