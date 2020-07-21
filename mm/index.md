@@ -3,7 +3,7 @@ title: Mutação em Massa
 subtitle: 10 de julho de 2020
 layout: page
 show_sidebar: false
-hero_image: https://archonarcana.com/images/f/f5/Starter-mm.jpg
+hero_image: https://print-and-play.asmodee.fun/images/keyforge_banner.jpg
 ---
 
 **Mutação em Massa** é o quarto conjunto **KeyForge**, anunciado em uma transmissão ao vivo da FFG em 30 de janeiro de 2020 e lançado em 29 de maio de 2020
