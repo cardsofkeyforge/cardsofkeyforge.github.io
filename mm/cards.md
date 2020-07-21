@@ -11,12 +11,6 @@ hero_image: https://archonarcana.com/images/f/f5/Starter-mm.jpg
 | Número | Nome |
 |----|----|
 | [001](/mm/001) | Cofre de Æmbar Sombrio |
-| [001](/mm/001) | Cofre de Æmbar Sombrio |
-| [001](/mm/001) | Cofre de Æmbar Sombrio |
-| [001](/mm/001) | Cofre de Æmbar Sombrio |
-| [001](/mm/001) | Cofre de Æmbar Sombrio |
-| [001](/mm/001) | Cofre de Æmbar Sombrio |
-| [001](/mm/001) | Cofre de Æmbar Sombrio |
 | [002](/mm/002) | Quebra-Ossos |
 | [003](/mm/003) | Pentelho |
 | [004](/mm/004) | Cãopanga Sombrio |

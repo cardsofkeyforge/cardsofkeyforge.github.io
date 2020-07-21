@@ -28,6 +28,5 @@ aparece em sua casa original neste conjunto, mas não há novas anomalias. Muta�
 | Lançamento | 10 de julho de 2020 |
 | Cartas | [422](cards) |
 | Cartas Inéditas | 259 |
-| Anomalias | [9](anomalies) |
 | Projeto e Desenvolvimento | Brad Andres, Daniel Schaefer e Aaron Haltom |
 | Idiomas | 12: inglês, francês, alemão, italiano, polonês, português, espanhol, chinês simplificado, chinês tradicional, tailandês, russo e coreano |
