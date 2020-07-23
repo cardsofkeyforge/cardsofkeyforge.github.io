@@ -127,8 +127,6 @@ hero_image: https://print-and-play.asmodee.fun/images/keyforge_banner.jpg
 | [115](/mm/115) | Fechadura Universal |
 | [116](/mm/116) | Zenzizenzizênzica |
 | [117](/mm/117) | Saiu da Jaula o Monstro |
-| [117](/mm/117) | Saiu da Jaula o Monstro |
-| [117](/mm/117) | Saiu da Jaula o Monstro |
 | [118](/mm/118) | Velum |
 | [119](/mm/119) | Dino-Droide |
 | [120](/mm/120) | Lupo-Droide |
@@ -351,11 +349,6 @@ hero_image: https://print-and-play.asmodee.fun/images/keyforge_banner.jpg
 | [337](/mm/337) | Comandante Dhrxgar |
 | [338](/mm/338) | Campo de Disrupção |
 | [340](/mm/340) | Alferes El-Samra |
-| [341](/mm/341) | Oficial de Câmbio |
-| [341](/mm/341) | Oficial de Câmbio |
-| [341](/mm/341) | Oficial de Câmbio |
-| [341](/mm/341) | Oficial de Câmbio |
-| [341](/mm/341) | Oficial de Câmbio |
 | [341](/mm/341) | Oficial de Câmbio |
 | [342](/mm/342) | Forjando uma Aliança |
 | [343](/mm/343) | Censo Galáctico |
