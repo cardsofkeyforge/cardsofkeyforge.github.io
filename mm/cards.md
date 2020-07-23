@@ -137,7 +137,6 @@ hero_image: https://print-and-play.asmodee.fun/images/keyforge_banner.jpg
 | [123](/mm/123) | Umbro-Droide |
 | [124](/mm/124) | Xeno-Droide |
 | [125](/mm/125) | Ultra Gravitron |
-| [125](/mm/125) | Ultra Gravitron |
 | [126](/mm/126) | Heroína Audaciosa |
 | [127](/mm/127) | Brutamontes |
 | [128](/mm/128) | Brilho Ardente |
@@ -256,7 +255,6 @@ hero_image: https://print-and-play.asmodee.fun/images/keyforge_banner.jpg
 | [241](/mm/241) | Tecno-Sauro |
 | [242](/mm/242) | Umbro-Sauro |
 | [243](/mm/243) | Xeno-Sauro |
-| [244](/mm/244) | Deusilla |
 | [244](/mm/244) | Deusilla |
 | [245](/mm/245) | Boo Nitinho |
 | [246](/mm/246) | Dæmo-Ladina |
@@ -439,5 +437,4 @@ hero_image: https://print-and-play.asmodee.fun/images/keyforge_banner.jpg
 | [419](/mm/419) | Tecno-Besta |
 | [420](/mm/420) | Umbro-Besta |
 | [421](/mm/421) | Xeno-Besta |
-| [422](/mm/422) | Inane Kong |
 | [422](/mm/422) | Inane Kong |
