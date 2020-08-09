@@ -413,7 +413,7 @@ hero_image: https://print-and-play.asmodee.fun/images/keyforge_banner.jpg
 | [401](/mm/401) | Cântico da Fertilidade |
 | [402](/mm/402) | Olha o Que Eu Achei! |
 | [403](/mm/403) | Piedade, a Rainha Malkin |
-| [404](/mm/404) | Pixies do Po |
+| [404](/mm/404) | Pixies do Pó |
 | [405](/mm/405) | Equilíbrio Pontuado |
 | [406](/mm/406) | Areia Movediça |
 | [407](/mm/407) | Ritual da Caça |
