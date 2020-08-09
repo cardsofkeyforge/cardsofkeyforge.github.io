@@ -348,6 +348,7 @@ hero_image: https://print-and-play.asmodee.fun/images/keyforge_banner.jpg
 | [336](/mm/336) | Capitã Val Jericó |
 | [337](/mm/337) | Comandante Dhrxgar |
 | [338](/mm/338) | Campo de Disrupção |
+| [339](/mm/339) | Traje de Encontro |
 | [340](/mm/340) | Alferes El-Samra |
 | [341](/mm/341) | Oficial de Câmbio |
 | [342](/mm/342) | Forjando uma Aliança |
