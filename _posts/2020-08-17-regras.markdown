@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Regras de KeyForge"
+subtitle: A nova versão do Livro de Regras de KeyForge foi publicada em português
+date:   2020-08-17 12:23:00
+categories: rules
+description: "A versão `1.6-01` do Livro de Regras de KeyForge em português está disponível para _download_"
+image: '/assets/Rulebook.png'
+published: true
+---
+
+Os **Livros de Regras de KeyForge** em português podem ser encontrados no **Google Drive** da
+[Galápados Jogos](http://asmodee.galapagosjogos.com.br/keyforge-portal-oficial) em:
+* [Regras](https://drive.google.com/drive/u/0/folders/1WzPtPX3CMKOYoGjHf6q3mrUYdLAliZj_)
+
+## Cartilha de Seguência
+
+Abaixo está um resumo da seguência dos turnos de **KeyForge**:
+
+![TimingChart.png](/assets/TimingChart.png)
