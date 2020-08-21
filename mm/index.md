@@ -24,7 +24,7 @@ aparece em sua casa original neste conjunto, mas não há novas anomalias. Muta�
 |----|----|
 | Casas | ![dis](https://archonarcana.com/images/thumb/e/e8/Dis.png/22px-Dis.png)![logos](https://archonarcana.com/images/thumb/c/ce/Logos.png/22px-Logos.png)![santuário](https://archonarcana.com/images/thumb/c/c7/Sanctum.png/22px-Sanctum.png)![sauro](https://archonarcana.com/images/thumb/9/9e/Saurian_P.png/22px-Saurian_P.png)![sombras](https://archonarcana.com/images/thumb/e/ee/Shadows.png/22px-Shadows.png)![aliança estelar](https://archonarcana.com/images/thumb/7/7d/Star_Alliance.png/22px-Star_Alliance.png)![indomados](https://archonarcana.com/images/thumb/b/bd/Untamed.png/22px-Untamed.png) |
 | Número | 4 |
-| Símbolo | <img src="https://archonarcana.com/images/thumb/e/e7/Mm.png/19px-Mm.png" alt="aoa" style="box-shadow: inset 0 0 1em #00000055, 0 0 1em black;"> |
+| Símbolo | ![mm](https://archonarcana.com/images/thumb/e/e7/Mm.png/19px-Mm.png) |
 | Lançamento | 10 de julho de 2020 |
 | Cartas | [422](cards) |
 | Cartas Inéditas | 259 |
