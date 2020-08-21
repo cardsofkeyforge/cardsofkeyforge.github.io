@@ -24,7 +24,7 @@ Existem 10 Anomalias disponíveis em Colisão entre Mundos (estas em adicional �
 |----|----|
 | Casas | ![brobnar](https://archonarcana.com/images/thumb/e/e0/Brobnar.png/22px-Brobnar.png)![dis](https://archonarcana.com/images/thumb/e/e8/Dis.png/22px-Dis.png)![logos](https://archonarcana.com/images/thumb/c/ce/Logos.png/22px-Logos.png)![sauro](https://archonarcana.com/images/thumb/9/9e/Saurian_P.png/22px-Saurian_P.png)![sombras](https://archonarcana.com/images/thumb/e/ee/Shadows.png/22px-Shadows.png)![aliança estelar](https://archonarcana.com/images/thumb/7/7d/Star_Alliance.png/22px-Star_Alliance.png)![indomados](https://archonarcana.com/images/thumb/b/bd/Untamed.png/22px-Untamed.png) |
 | Número | 3 |
-| Símbolo | ![wc](https://archonarcana.com/images/thumb/b/b7/Wc.png/19px-Wc.png) |
+| Símbolo | <img src="https://archonarcana.com/images/thumb/b/b7/Wc.png/19px-Wc.png" alt="aoa" style="box-shadow: inset 0 0 1em #00000055, 0 0 1em black;"> |
 | Lançamento | 8 de novembro de 2019 |
 | Cartas | [405](cards) |
 | Cartas Inéditas | 284 |
