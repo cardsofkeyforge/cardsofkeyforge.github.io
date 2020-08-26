@@ -12,6 +12,6 @@ published: true
 Acompanhe a quantidade de decks registrados no [Master Vault](https://www.keyforgegame.com/)
 por conjunto lançado.
 
-`Dia 27 de agosto de 2020 atingimos os 2.000.000 de _decks_ registrados!`
+`Dia 25 de agosto de 2020 atingimos os 2.000.000 de _decks_ registrados!`
 
 ![RegisterChart.png](/assets/RegisterChart.png)
