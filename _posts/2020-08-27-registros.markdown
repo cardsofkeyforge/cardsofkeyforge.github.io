@@ -14,4 +14,4 @@ por conjunto lançado.
 
 `Dia 25 de agosto de 2020 atingimos 2.000.000 de decks registrados!`
 
-![RegisterChart.png](/assets/RegisterChart.png)
+![RegisterChart.png](/assets/RegisterChart-202008.png)
