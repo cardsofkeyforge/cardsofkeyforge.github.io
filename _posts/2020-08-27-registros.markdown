@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Decks Registrados"
+title: "Decks Registrados"
 subtitle: Quantidade de decks registrados por conjunto
-date:   2020-08-26 15:01:00
+date: 2020-08-27 12:51:00
 categories: decks vault
 description: "Acompanhe a quantidade de decks registrados no Master Vault por conjunto"
 image: 'https://www.keyforgegame.com/images/fe24901157c4b29325b0c9b63a0be570.png'
