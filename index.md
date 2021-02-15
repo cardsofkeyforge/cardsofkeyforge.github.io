@@ -44,3 +44,10 @@ Inclui 259 novas cartas, num total de 422 cartas, tornando-se o maior conjunto a
 _design_ da FFG, com Richard Garfield envolvido apenas em um papel de consultor. A casa de Sanctum voltou depois de estar ausente no Colisão entre Mundos,
 mas a casa Brobnar foi retirada pela primeira vez. Enquanto Sanctum está retornando ao conjunto Mutação em Massa, ele tem um estilo ligeiramente diferente
 da casa Sanctum dos conjuntos anteriores.
+
+## Mar de Trevas
+
+**Mar de Trevas** é o quinto conjunto **KeyForge**, anunciado durante a _Fantasy Flight Games In-Flight Report_ de 29 de julho de 2020
+e será lançado em 12 de março de 2021.
+
+Incluirá 280 novas cartas. A casa Dis rotacionará para dar lugar a nova casa chamada Abissais.
