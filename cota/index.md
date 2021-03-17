@@ -3,7 +3,7 @@ title: O Chamado dos Arcontes
 subtitle: 15 de novembro de 2018
 layout: page
 show_sidebar: false
-hero_image: https://archonarcana.com/images/5/5e/Starter-cota.jpg
+hero_image: hero.png
 ---
 
 O primeiro conjunto de **KeyForge**, **O Chamado dos Arcontes**, foi anunciado na Gen Con em 1º de agosto de 2018 e lançado em 15 de novembro de 2018.
