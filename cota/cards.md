@@ -3,7 +3,7 @@ title: O Chamado dos Arcontes
 subtitle: 15 de novembro de 2018
 layout: page
 show_sidebar: false
-hero_image: hero.png
+hero_image: ../hero.png
 ---
 
 ## Listagem das Cartas

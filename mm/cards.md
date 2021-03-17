@@ -3,7 +3,7 @@ title: Mutação em Massa
 subtitle: 10 de julho de 2020
 layout: page
 show_sidebar: false
-hero_image: hero.png
+hero_image: ../hero.png
 ---
 
 ## Listagem das Cartas
