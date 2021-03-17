@@ -3,7 +3,7 @@ title: Mar de Trevas
 subtitle: 12 de março de 2021
 layout: page
 show_sidebar: false
-hero_image: https://archonarcana.com/images/c/c5/Starter-dt.jpg
+hero_image: hero.png
 ---
 
 **Mar de Trevas** é o quinto conjunto **KeyForge**, anunciado durante a _Fantasy Flight Games In-Flight Report_ de 29 de julho de 2020

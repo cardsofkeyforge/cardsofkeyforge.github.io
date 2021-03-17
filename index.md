@@ -16,11 +16,11 @@ como, por exemplo, arquivos `JSON` e `XML`. Estes últimos compatíveis com [Coc
 
 O primeiro conjunto de KeyForge, O Chamado dos Arcontes, foi anunciado na Gen Con em 1º de agosto de 2018 e lançado em 15 de novembro de 2018.
 
-Consistindo de 370 cartas, O Chamado dos Arcontes instroduzio as 7 casas originais de KeyForge: Brobnar, Dis, Logos, Marte, Santuário, Sombras e Indomados.
+Consistindo de 370 cartas, O Chamado dos Arcontes introduziu as 7 casas originais de KeyForge: Brobnar, Dis, Logos, Marte, Santuário, Sombras e Indomados.
 
 ## Era da Ascensão
 
-Era da Ascensão é o segundo conjunto de KeyForge, anunciado pela FFG em uma transmissão ao vivo com o Richard Garfield em 12 de fevereiro de 2019
+Era da Ascensão é o segundo conjunto de KeyForge, anunciado pela FFG numa transmissão ao vivo com o Richard Garfield em 12 de fevereiro de 2019
 e lançado em 30 de maio de 2019.
 
 Este conjunto manteve 166 cartas do conjunto O Chamado dos Arcontes e adicionou 204 novas cartas, para também conter 370 cartas no total,
@@ -30,9 +30,9 @@ distribuidas entre as mesmas 7 casas anteriores: Brobnar, Dis, Logos, Marte, San
 
 Colisão entre Mundos é o terceiro conjunto de KeyForge, anunciado na Gen Con em 2 de agosto de 2019 e lançado em 8 de novembro de 2019.
 
-Este foi o primeiro conjunto a incluir novas casas, trazendo as casas Sauro e Aliança Estelar, ao mesmo tempo removeu as casas Marte e Santuário.
+Este foi o primeiro conjunto a incluir novas casas, trazendo as casas Sauro e Aliança Estelar ao mesmo tempo, removeu as casas Marte e Santuário.
 O total de cartas neste conjunto foi de 405 cartas, das quais 284 são novas e 121 dos dois conjuntos anteriores. O aumento no número de cartas
-presentes neste conjunto ocorreu por causa de um número maior de cartas especiais, enquanto que o número de cartas “base” por casa é o mesmo
+presentes neste conjunto ocorreu devido a um número maior de cartas especiais, enquanto o número de cartas “base” por casa é o mesmo
 que nos conjuntos anteriores, tipicamente 52.
 
 ## Mutação em Massa
@@ -48,6 +48,7 @@ da casa Sanctum dos conjuntos anteriores.
 ## Mar de Trevas
 
 **Mar de Trevas** é o quinto conjunto **KeyForge**, anunciado durante a _Fantasy Flight Games In-Flight Report_ de 29 de julho de 2020
-e será lançado em 12 de março de 2021.
+e lançado em 12 de março de 2021. Contudo, devido à pandemia de COVID-19, diversos países tiveram a data postergada,
+inclusive o Brasil.
 
 Incluirá 280 novas cartas. A casa Dis rotacionará para dar lugar a nova casa chamada Abissais.
