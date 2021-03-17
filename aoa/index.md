@@ -3,7 +3,7 @@ title: Era da Ascensão
 subtitle: 30 de maio de 2019
 layout: page
 show_sidebar: false
-hero_image: https://archonarcana.com/images/c/c6/Starter-aoa.jpg
+hero_image: hero.png
 ---
 
 **Era da Ascensão** é o segundo conjunto de **KeyForge**, anunciado pela FFG em uma transmissão ao vivo com o Richard Garfield em 12 de fevereiro de 2019

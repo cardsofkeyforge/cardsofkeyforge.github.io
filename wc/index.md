@@ -3,7 +3,7 @@ title: Colisão entre Mundos
 subtitle: 8 de novembro de 2019
 layout: page
 show_sidebar: false
-hero_image: https://archonarcana.com/images/0/07/Starter-wc.jpg
+hero_image: hero.png
 ---
 
 **Colisão entre Mundos** é o terceiro conjunto de **KeyForge**, anunciado na Gen Con em 2 de agosto de 2019 e lançado em 8 de novembro de 2019.
