@@ -6,10 +6,17 @@ show_sidebar: false
 hero_image: hero.png
 ---
 
-**Mar de Trevas** é o quinto conjunto **KeyForge**, anunciado durante a _Fantasy Flight Games In-Flight Report_ de 29 de julho de 2020
-e será lançado em 12 de março de 2021.
+**Mar de Trevas** é o quinto conjunto de **KeyForge**, anunciado durante a _Fantasy Flight Games In-Flight Report_ de 29 de julho de 2020
+e lançado em 12 de março de 2021. Contudo, devido à pandemia de COVID-19, diversos países tiveram a data postergada,
+inclusive o Brasil.
 
-Incluirá 280 novas cartas. A casa Dis rotacionará para dar lugar a nova casa chamada Abissais.
+Inclui 280 novas cartas, num total de 428 cartas. A casa Dis foi retirada pela primeira vez para dar lugar a nova casa chamada Abissais.
+Nesse conjunto cada baralho virá com uma 38ª carta, a ficha de maré. A mecânica de maré aparece pela primeira vez, onde os jogadores
+poderão subir a maré do jogo para obter efeitos mais poderosos com certas cartas.
+
+Mar de Trevas também trouxe os baralhos Gêmeos do Mal, que são cópias de baralhor normais que contém versões Gêmeos do Mal das cartas quando possível.
+Esses baralhos raros serão identificados pelas palavras "Gêmeo do Mal" em seus nomes. As cartas Gêmeos do Mal possuem artes alternativas de suas versões
+originais.
 
 ## Especificação
 
@@ -18,7 +25,7 @@ Incluirá 280 novas cartas. A casa Dis rotacionará para dar lugar a nova casa c
 | Número | 4 |
 | Símbolo | <img src="https://archonarcana.com/images/thumb/0/03/Dt.png/19px-Dt.png" alt="dt" style="background-color: gray; border-radius: 14px; padding: 5px;"/> |
 | Lançamento | 12 de março de 2021 |
-| Cartas | ??? |
+| Cartas | 428 |
 | Cartas Inéditas | 280 |
 | Projeto e Desenvolvimento | Brad Andres, Daniel Schaefer e Aaron Haltom |
 | Idiomas | 12: inglês, francês, alemão, italiano, polonês, português, espanhol, chinês simplificado, chinês tradicional, tailandês, russo e coreano |
