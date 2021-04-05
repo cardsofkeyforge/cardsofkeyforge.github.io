@@ -7,7 +7,7 @@ categories: rules
 description: "A versão `1.6-01` do Livro de Regras de KeyForge em português está disponível para _download_"
 image: '/assets/Rulebook.png'
 published: true
-hero_image: ../assets/aoaBackground.jpg
+hero_image: /assets/aoaBackground.jpg
 ---
 
 Os **Livros de Regras de KeyForge** em português podem ser encontrados no **Google Drive** da
