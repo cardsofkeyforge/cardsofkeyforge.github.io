@@ -7,6 +7,7 @@ categories: keyforge multiplayer coop
 description: "Estar por vir um novo modo de jogo cooperativo de KeyForge!"
 image: 'https://archonarcana.com/images/4/4c/Keyraken.png'
 published: true
+hero_image: ../assets/aoaBackground.jpg
 ---
 
 KeyForge Adventures são um conjunto de aventuras de KeyForge para serem jogadas de forma cooperativa com até 3 jogadores.

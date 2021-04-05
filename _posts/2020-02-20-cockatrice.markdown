@@ -7,6 +7,7 @@ categories: play online
 description: "Como configurar o Cockatrice para jogar KeyForge online"
 image: 'https://d335luupugsy2.cloudfront.net/cms/files/80482/1562793109/$ep0v3563aci'
 published: true
+hero_image: ../assets/aoaBackground.jpg
 ---
 
 Cockatrice é um projeto _open-source_, um programa multiplataforma para jogar _tabletop_ de cartas através da internet.
