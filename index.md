@@ -2,6 +2,7 @@
 title: Cards of KeyForge
 subtitle: Banco de dados com todas as cartas de KeyForge - JSON/XML
 layout: page
+hero_image: assets/cotaBackground.jpg
 ---
 
 # Bem-vindo ao Cards of KeyForge
