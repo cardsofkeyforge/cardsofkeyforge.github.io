@@ -22,10 +22,10 @@ originais.
 
 |----|----|
 | Casas | ![logos](https://archonarcana.com/images/thumb/c/ce/Logos.png/22px-Logos.png)![santuário](https://archonarcana.com/images/thumb/c/c7/Sanctum.png/22px-Sanctum.png)![sauro](https://archonarcana.com/images/thumb/9/9e/Saurian_P.png/22px-Saurian_P.png)![sombras](https://archonarcana.com/images/thumb/e/ee/Shadows.png/22px-Shadows.png)![aliança estelar](https://archonarcana.com/images/thumb/7/7d/Star_Alliance.png/22px-Star_Alliance.png)![abissais](https://archonarcana.com/images/thumb/1/10/Unfathomable.png/22px-Unfathomable.png)![indomados](https://archonarcana.com/images/thumb/b/bd/Untamed.png/22px-Untamed.png) |
-| Número | 4 |
+| Número | 5 |
 | Símbolo | <img src="https://archonarcana.com/images/thumb/0/03/Dt.png/19px-Dt.png" alt="dt" style="background-color: gray; border-radius: 14px; padding: 5px;"/> |
 | Lançamento | 12 de março de 2021 |
-| Cartas | 428 |
-| Cartas Inéditas | 280 |
+| Cartas | 429 |
+| Cartas Inéditas | 281 |
 | Projeto e Desenvolvimento | Brad Andres, Daniel Schaefer e Aaron Haltom |
 | Idiomas | 12: inglês, francês, alemão, italiano, polonês, português, espanhol, chinês simplificado, chinês tradicional, tailandês, russo e coreano |
