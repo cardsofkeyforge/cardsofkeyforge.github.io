@@ -11,13 +11,13 @@ hero_image: ../hero.png
 | Número | Nome |
 |----|----|
 | [000](/dt/000) | A Maré |
-| [001](/dt/001) | Armadrone |
-| [002](/dt/002) | Moréia Binária |
-| [003](/dt/003) | Capitão Kresage |
-| [004](/dt/004) | Velho Ranheta |
-| [005](/dt/005) | Detetive Devaneio |
-| [006](/dt/006) | Profa. Garwynne |
-| [007](/dt/007) | Talmage Encoraçado |
+| [001](/dt/001) | Armadrone (Gêmeo do Mal) |
+| [002](/dt/002) | Moréia Binária (Gêmeo do Mal) |
+| [003](/dt/003) | Capitão Kresage (Gêmeo do Mal) |
+| [004](/dt/004) | Velho Ranheta (Gêmeo do Mal) |
+| [005](/dt/005) | Detetive Devaneio (Gêmeo do Mal) |
+| [006](/dt/006) | Profa. Garwynne (Gêmeo do Mal) |
+| [007](/dt/007) | Talmage Encoraçado (Gêmeo do Mal) |
 | [008](/dt/008) | Dr. Verokter |
 | [009](/dt/009) | Laboratório no Telhado |
 | [010](/dt/010) | Experimento Imprudente |
@@ -74,13 +74,13 @@ hero_image: ../hero.png
 | [061](/dt/061) | Boia ou Afunda? |
 | [062](/dt/062) | Talmage Encoraçado |
 | [063](/dt/063) | Teoria ou Hipótese |
-| [064](/dt/064) | Mestresmola |
-| [065](/dt/065) | Adivinha Cinza |
-| [066](/dt/066) | Lærie do Lago |
-| [067](/dt/067) | Clariel Forjaluz |
-| [068](/dt/068) | Senescal Sargassa |
-| [069](/dt/069) | Sir Bevor |
-| [070](/dt/070) | Urien, o Prudente |
+| [064](/dt/064) | Mestresmola (Gêmeo do Mal) |
+| [065](/dt/065) | Adivinha Cinza (Gêmeo do Mal) |
+| [066](/dt/066) | Lærie do Lago (Gêmeo do Mal) |
+| [067](/dt/067) | Clariel Forjaluz (Gêmeo do Mal) |
+| [068](/dt/068) | Senescal Sargassa (Gêmeo do Mal) |
+| [069](/dt/069) | Sir Bevor (Gêmeo do Mal) |
+| [070](/dt/070) | Urien, o Prudente (Gêmeo do Mal) |
 | [071](/dt/071) | Orphiel, Eleita do Mar |
 | [072](/dt/072) | Orphion, Eleito da Terra |
 | [073](/dt/073) | Aja, a Imperceptível |
@@ -134,13 +134,13 @@ hero_image: ../hero.png
 | [121](/dt/121) | Ordenação Sinistra |
 | [122](/dt/122) | Viagem de Tributação |
 | [123](/dt/123) | Urien, o Prudente |
-| [124](/dt/124) | Bestiarii Urso |
-| [125](/dt/125) | Censor Filo |
-| [126](/dt/126) | Ambrósio Eclético |
-| [127](/dt/127) | Lapissauro |
-| [128](/dt/128) | Mestra Vita |
-| [129](/dt/129) | Cientista Felix |
-| [130](/dt/130) | Undagnato |
+| [124](/dt/124) | Bestiarii Urso (Gêmeo do Mal) |
+| [125](/dt/125) | Censor Filo (Gêmeo do Mal) |
+| [126](/dt/126) | Ambrósio Eclético (Gêmeo do Mal) |
+| [127](/dt/127) | Lapissauro (Gêmeo do Mal) |
+| [128](/dt/128) | Mestra Vita (Gêmeo do Mal) |
+| [129](/dt/129) | Cientista Felix (Gêmeo do Mal) |
+| [130](/dt/130) | Undagnato (Gêmeo do Mal) |
 | [131](/dt/131) | Cila |
 | [132](/dt/132) | Caríbdis |
 | [133](/dt/133) | Bracanália |
@@ -194,13 +194,13 @@ hero_image: ../hero.png
 | [181](/dt/181) | Espólios de Batalha |
 | [182](/dt/182) | Undagnato |
 | [183](/dt/183) | Grande Caçador |
-| [184](/dt/184) | Capitão Barba-Nula |
-| [185](/dt/185) | Fada Delinquente |
-| [186](/dt/186) | Simpson Valentão |
-| [187](/dt/187) | Aproveitador |
-| [188](/dt/188) | Possante |
-| [189](/dt/189) | Willa Caolha |
-| [190](/dt/190) | Larápio do Mar |
+| [184](/dt/184) | Capitão Barba-Nula (Gêmeo do Mal) |
+| [185](/dt/185) | Fada Delinquente (Gêmeo do Mal) |
+| [186](/dt/186) | Simpson Valentão (Gêmeo do Mal) |
+| [187](/dt/187) | Aproveitador (Gêmeo do Mal) |
+| [188](/dt/188) | Possante (Gêmeo do Mal) |
+| [189](/dt/189) | Willa Caolha (Gêmeo do Mal) |
+| [190](/dt/190) | Larápio do Mar (Gêmeo do Mal) |
 | [191](/dt/191) | Vingança do Arconte |
 | [192](/dt/192) | Capitão Barba-Nula |
 | [193](/dt/193) | Baú do Homem Morto |
@@ -253,13 +253,13 @@ hero_image: ../hero.png
 | [240](/dt/240) | Agulha Perseguidora |
 | [241](/dt/241) | Encosto |
 | [242](/dt/242) | Andar na Prancha |
-| [243](/dt/243) | 5C077 |
-| [244](/dt/244) | Dir. de Recursos Hawkins |
-| [245](/dt/245) | L30-P4RD0 |
-| [246](/dt/246) | Colono Chapman |
-| [247](/dt/247) | Operativo Espion |
-| [248](/dt/248) | Eng. de Foguetes Tryska |
-| [249](/dt/249) | Escudoideira |
+| [243](/dt/243) | 5C077 (Gêmeo do Mal) |
+| [244](/dt/244) | Dir. de Recursos Hawkins (Gêmeo do Mal) |
+| [245](/dt/245) | L30-P4RD0 (Gêmeo do Mal) |
+| [246](/dt/246) | Colono Chapman (Gêmeo do Mal) |
+| [247](/dt/247) | Operativo Espion (Gêmeo do Mal) |
+| [248](/dt/248) | Eng. de Foguetes Tryska (Gêmeo do Mal) |
+| [249](/dt/249) | Escudoideira (Gêmeo do Mal) |
 | [250](/dt/250) | Com. Oficial Hings |
 | [251](/dt/251) | Com. Oficial Gross |
 | [252](/dt/252) | Agente 14 da Força-Z |
@@ -316,13 +316,13 @@ hero_image: ../hero.png
 | [303](/dt/303) | Tecnoblablablá |
 | [304](/dt/304) | União ou Discórdia |
 | [305](/dt/305) | Zap |
-| [306](/dt/306) | Intendente Guelrafogo |
-| [307](/dt/307) | Aurespinha Lançarrede |
-| [308](/dt/308) | Terrível Synan |
-| [309](/dt/309) | Kaupe |
-| [310](/dt/310) | Taniwha |
-| [311](/dt/311) | Tomwa do Brilho |
-| [312](/dt/312) | Wikolia |
+| [306](/dt/306) | Intendente Guelrafogo (Gêmeo do Mal) |
+| [307](/dt/307) | Aurespinha Lançarrede (Gêmeo do Mal) |
+| [308](/dt/308) | Terrível Synan (Gêmeo do Mal) |
+| [309](/dt/309) | Kaupe (Gêmeo do Mal) |
+| [310](/dt/310) | Taniwha (Gêmeo do Mal) |
+| [311](/dt/311) | Tomwa do Brilho (Gêmeo do Mal) |
+| [312](/dt/312) | Wikolia (Gêmeo do Mal) |
 | [313](/dt/313) | Nado Raso |
 | [314](/dt/314) | Mergulho Profundo |
 | [315](/dt/315) | Descoberta Sombria |
@@ -378,13 +378,13 @@ hero_image: ../hero.png
 | [365](/dt/365) | Afundar ou Nadar |
 | [366](/dt/366) | Surto de Tempestade |
 | [367](/dt/367) | Wikolia |
-| [368](/dt/368) | Tubarão-Æmbar |
-| [369](/dt/369) | Quelônia |
-| [370](/dt/370) | Inhãzinho |
-| [371](/dt/371) | Velho Turrão |
-| [372](/dt/372) | Perebento |
-| [373](/dt/373) | Bruxo Crepuscular |
-| [374](/dt/374) | Urso Ultimogênito |
+| [368](/dt/368) | Tubarão-Æmbar (Gêmeo do Mal) |
+| [369](/dt/369) | Quelônia (Gêmeo do Mal) |
+| [370](/dt/370) | Inhãzinho (Gêmeo do Mal) |
+| [371](/dt/371) | Velho Turrão (Gêmeo do Mal) |
+| [372](/dt/372) | Perebento (Gêmeo do Mal) |
+| [373](/dt/373) | Bruxo Crepuscular (Gêmeo do Mal) |
+| [374](/dt/374) | Urso Ultimogênito (Gêmeo do Mal) |
 | [375](/dt/375) | Lagarta |
 | [376](/dt/376) | Bicho-da-Seda |
 | [377](/dt/377) | Panapaná |
