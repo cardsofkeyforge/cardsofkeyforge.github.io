@@ -25,7 +25,7 @@ originais.
 | Número | 5 |
 | Símbolo | <img src="https://archonarcana.com/images/thumb/0/03/Dt.png/19px-Dt.png" alt="dt" style="background-color: gray; border-radius: 14px; padding: 5px;"/> |
 | Lançamento | 12 de março de 2021 |
-| Cartas | 429 |
+| Cartas | [429](cards) |
 | Cartas Inéditas | 281 |
 | Projeto e Desenvolvimento | Brad Andres, Daniel Schaefer e Aaron Haltom |
 | Idiomas | 12: inglês, francês, alemão, italiano, polonês, português, espanhol, chinês simplificado, chinês tradicional, tailandês, russo e coreano |
