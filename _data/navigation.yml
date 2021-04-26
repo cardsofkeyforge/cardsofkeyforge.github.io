@@ -11,7 +11,14 @@
       link: /mm/
     - name: Mar de Trevas
       link: /dt/
+- name: Aventuras
+  link: /#
+  dropdown:
+    - name: Rise of the Keyraken
+      link: /rotk/
 - name: Publicações
   link: /blog/
 - name: Procurar
   link: /search/
+- name: API
+  link: https://docs.cardsofkeyforge.com
