@@ -10,7 +10,7 @@ hero_image: /assets/cotaBackground.jpg
 _Fantasy Flight Games_ em 11 de março de 2021 e lançada em 23 de abril de 2021. KeyForge Adventures
 são um conjunto de aventuras de KeyForge para serem jogadas de forma cooperativa com até 3 jogadores.
 
-Inclui 48 novas cartas, incluindo um "chefão" e duas cartas de Maré especial. As cartas de Maré são na realidade
+Inclui 47 novas cartas, incluindo um "chefão" e duas cartas de Maré especiais. As cartas de Maré são
 uma única carta de face dupla.
 
 ## Especificação
@@ -20,7 +20,7 @@ uma única carta de face dupla.
 | Número | Adventure 001 |
 | Símbolo | RotK |
 | Lançamento | 23 de abril de 2021 |
-| Cartas | [48](cards) |
-| Cartas Inéditas | 48 |
+| Cartas | [47](cards) |
+| Cartas Inéditas | 47 |
 | Projeto e Desenvolvimento | Aaron Haltom e Tyler Parrott com Brad Andres |
 | Idiomas | 2: inglês e francês |
