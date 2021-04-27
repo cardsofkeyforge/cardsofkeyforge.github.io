@@ -18,7 +18,7 @@ uma única carta de face dupla.
 |----|----|
 | Casas | Keyraken |
 | Número | Adventure 001 |
-| Símbolo | RotK |
+| Símbolo | <img src="https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/rotk.png" alt="rotk" style="background-color: gray; border-radius: 14px; padding: 5px;"/> |
 | Lançamento | 23 de abril de 2021 |
 | Cartas | [47](cards) |
 | Cartas Inéditas | 47 |
