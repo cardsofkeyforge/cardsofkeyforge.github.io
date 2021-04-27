@@ -16,7 +16,7 @@ uma única carta de face dupla.
 ## Especificação
 
 |----|----|
-| Casas | ![Keyraken](https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/keyraken.png "Keyraken") |
+| Casas | ![Keyraken](https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/keyraken.png) |
 | Número | Adventure 001 |
 | Símbolo | <img src="https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/rotk.png" alt="rotk" style="background-color: gray; border-radius: 14px; padding: 5px;"/> |
 | Lançamento | 23 de abril de 2021 |
