@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Decks Registrados"
-subtitle: Quantidade de decks registrados por conjunto
+title: "Baralhos Registrados"
+subtitle: Quantidade de baralhos registrados por conjunto
 date: 2021-04-27 11:52:00
 categories: decks vault
 description: "Acompanhe a quantidade de baralhos registrados no Master Vault por conjunto"
