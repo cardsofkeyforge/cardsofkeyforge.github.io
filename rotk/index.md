@@ -10,8 +10,13 @@ hero_image: /assets/cotaBackground.jpg
 _Fantasy Flight Games_ em 11 de março de 2021 e lançada em 23 de abril de 2021. KeyForge Adventures
 são um conjunto de aventuras de KeyForge para serem jogadas de forma cooperativa com até 3 jogadores.
 
-Inclui 47 novas cartas, incluindo um "chefão" e duas cartas de Maré especiais. As cartas de Maré são
-uma única carta de face dupla.
+Inclui 28 novas cartas, para compor um baralho de 47 cartas, incluindo um "chefão" e uma carta de Maré especial.
+A carta de Maré especial é diferente da tradicional tanto no jogo, quanto no fato de ser face dupla.
+Já o "chefão", a carta **The Keyraken**, é uma carta que também começa fora do baralho e possui tamanho maior
+do que as outras cartas.
+
+As regras podem ser obtidas visitando a página [aqui](https://drafts.fantasyflightgames.com/en/products/keyforge/)
+na seção de suporte em **Print-and-Play Materials**.
 
 ## Especificação
 
@@ -21,6 +26,6 @@ uma única carta de face dupla.
 | Símbolo | <img src="https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/rotk.png" alt="rotk" style="background-color: gray; border-radius: 14px; padding: 5px;"/> |
 | Lançamento | 23 de abril de 2021 |
 | Cartas | [47](cards) |
-| Cartas Inéditas | 47 |
+| Cartas Inéditas | 28 |
 | Projeto e Desenvolvimento | Aaron Haltom e Tyler Parrott com Brad Andres |
 | Idiomas | 2: inglês e francês |
