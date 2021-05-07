@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "KeyForge com TTS"
+subtitle: Aprenda a configurar o TTS para jogar KeyForge
+date:   2021-05-07 14:08:00
+categories: play online
+description: "Como configurar o TTS para jogar KeyForge online"
+image: 'https://cdn.cloudflare.steamstatic.com/steam/apps/286160/header.jpg?t=1616789032'
+published: true
+hero_image: /assets/aoaBackground.jpg
+---
+
+[TTS (Tabletop Simulator)](https://store.steampowered.com/app/286160/Tabletop_Simulator/) é um simulador onde você pode jogar
+praticamente qualquer jogo que você jogaria em uma mesa!
+Não há regras a serem seguidas: apenas você, uma mesa com os elementos físicos e seus amigos.
+
+Você precisará do jogo instalado para então carregar a oficina [LockSmeltPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=2479897263).
+Siga as instruções do TTS de como assinar e carregar uma oficina.
+
+## Instruções
+
+Essa oficina contém tudo o que você precisa para jogar sozinho ou contra um adversário:
+- Há uma mesa com as áreas de jogo demarcadas
+- Fichas e marcadores
+- Painel para carregar os baralhos
+- Adesivos para marcar as cartas propagadas
+- Guia de referência com os tempos de resolução
+
+Além de carregar um baralhos específico através do painel é possível buscar um baralho aleatório. Nesse caso você pode escolher
+entre todos os baralhos descobertos ou filtrar por conjunto.
+
+Também é possível carregar o baralho da aventura "Rise of the Keyraken" e jogar solo contra esse chefão! Basta filtrar por conjunto,
+selecionando "Rise of the Keyraken", e selecionar "Aleatório".
+
+Siga os seguintes passos para jogar depois que ambos os jogadores estiverem conectados:
+- SHIFT-1 e cole o ID do seu baralho
+- Acione "Importar" para carregar
+- Depois que a listagem de cartas aparecer pressione a barra de espaço
+- Use o botão "Iniciar" para organizar as fichas e embaralhar suas cartas
+- Sua mão será comprada automaticamente
+- Se quiser tomar um "Mulligan", pressione o botão novamente
+
+A partir deste ponto você pode habilitar o turno do TTS se preferir ou jogar de forma mais livre. Você decide!

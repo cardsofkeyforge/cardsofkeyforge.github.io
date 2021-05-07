@@ -8,7 +8,8 @@ hero_image: assets/cotaBackground.jpg
 # Bem-vindo ao Cards of KeyForge
 
 Este _site_ contém uma _engine_ de busca para todas as cartas de **KeyForge**. As cartas estão separadas por conjunto e é possível baixar alguns artefatos
-como, por exemplo, arquivos `JSON` e `XML`. Estes últimos compatíveis com [Cockatrice](https://cockatrice.github.io).
+como, por exemplo, arquivos `JSON` e `XML`. Estes últimos compatíveis com [TTS](https://steamcommunity.com/sharedfiles/filedetails/?id=2479897263)
+e [Cockatrice](https://cockatrice.github.io).
 
 [![json](https://img.shields.io/badge/JSON-github-blue)](https://github.com/cardsofkeyforge/json/tree/master/json/pt)
 [![xml](https://img.shields.io/badge/XML-github-green)](https://github.com/cardsofkeyforge/json/tree/master/xml/pt)
@@ -55,3 +56,19 @@ inclusive o Brasil.
 Inclui 280 novas cartas, num total de 428 cartas. A casa Dis foi retirada pela primeira vez para dar lugar a nova casa chamada Abissais.
 Nesse conjunto cada baralho virá com uma 38ª carta, a ficha de maré. A mecânica de maré aparece pela primeira vez, onde os jogadores
 poderão subir a maré do jogo para obter efeitos mais poderosos com certas cartas.
+
+# Comunidade Brasileira de KeyForge
+
+Venha participar e contribuir com a nossa comunidade:
+
+<div class="buttons ">
+    <a class="button is-medium is-discord" title="KeyForge Brasil no Discord" onclick="window.open('https://discord.gg/6AjCS4ppPQ');">
+        <span class="icon"><i class="fab fa-discord fa-lg"></i></span>
+    </a>
+    <a class="button is-medium is-reddit" title="KeyForge Brasil no Reddit" onclick="window.open('https://www.reddit.com/r/KeyforgeBr/');">
+        <span class="icon"><i class="fab fa-reddit fa-lg"></i></span>
+    </a>
+    <a class="button is-medium is-facebook" title="KeyForge Brasil no Facebook" onclick="window.open('https://www.facebook.com/keyforgebrasil/');">
+        <span class="icon"><i class="fab fa-facebook fa-lg"></i></span>
+    </a>
+</div>
