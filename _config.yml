@@ -1,9 +1,9 @@
 # Site Settings
 title: Cards of KeyForge
-tagline: cards keyforge json xml cockatrice
-email: fortran.gamer@gmail.com
+tagline: cards keyforge api json xml tts cockatrice
+email: alfoltran@gmail.com
 description: >
-  Banco de dados com todas as cartas de KeyForge - JSON/XML
+  API com todas as cartas de KeyForge
 baseurl: ""
 url: "https://site.cardsofkeyforge.com"
 permalink: pretty
