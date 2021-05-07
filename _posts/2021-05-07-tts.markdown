@@ -26,7 +26,7 @@ Essa oficina contém tudo o que você precisa para jogar sozinho ou contra um ad
 - Adesivos para marcar as cartas propagadas
 - Guia de referência com os tempos de resolução
 
-Além de carregar um baralhos específico através do painel é possível buscar um baralho aleatório. Nesse caso você pode escolher
+Além de carregar um baralho específico através do painel é possível buscar um baralho aleatório. Nesse caso você pode escolher
 entre todos os baralhos descobertos ou filtrar por conjunto.
 
 Também é possível carregar o baralho da aventura "Rise of the Keyraken" e jogar solo contra esse chefão! Basta filtrar por conjunto,
