@@ -5,7 +5,7 @@ email: fortran.gamer@gmail.com
 description: >
   Banco de dados com todas as cartas de KeyForge - JSON/XML
 baseurl: ""
-url: "https://cardsofkeyforge.github.io"
+url: "https://site.cardsofkeyforge.com"
 permalink: pretty
 
 paginate: 5
