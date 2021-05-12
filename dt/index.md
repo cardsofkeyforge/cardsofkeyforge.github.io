@@ -28,4 +28,4 @@ originais.
 | Cartas | [429](cards) |
 | Cartas Inéditas | 281 |
 | Projeto e Desenvolvimento | Brad Andres, Daniel Schaefer e Aaron Haltom |
-| Idiomas | 12: inglês, francês, alemão, italiano, polonês, português, espanhol, chinês simplificado, chinês tradicional, tailandês, russo e coreano |
+| Idiomas | 11: inglês, francês, alemão, italiano, polonês, português, espanhol, chinês simplificado, chinês tradicional, russo e coreano |
