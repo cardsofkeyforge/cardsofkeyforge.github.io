@@ -23,7 +23,7 @@ Essa oficina contém tudo o que você precisa para jogar sozinho ou contra um ad
 - Há uma mesa com as áreas de jogo demarcadas
 - Fichas e marcadores
 - Painel para carregar os baralhos
-- Adesivos para marcar as cartas propagadas
+- Painel para propagar as cartas do baralho (com o uso de decalques)
 - Guia de referência com os tempos de resolução
 
 Além de carregar um baralho específico através do painel é possível buscar um baralho aleatório. Nesse caso você pode escolher
@@ -33,11 +33,20 @@ Também é possível carregar o baralho da aventura "Rise of the Keyraken" e jog
 selecionando "Rise of the Keyraken", e selecionar "Aleatório".
 
 Siga os seguintes passos para jogar depois que ambos os jogadores estiverem conectados:
-- SHIFT-1 e cole o ID do seu baralho
-- Acione "Importar" para carregar
+- SHIFT-1 e cole o ID do seu baralho para importá-lo
 - Depois que a listagem de cartas aparecer pressione a barra de espaço
+- Se se baralho tiver "Propagar", use o codificador (*)
 - Use o botão "Iniciar" para organizar as fichas e embaralhar suas cartas
 - Sua mão será comprada automaticamente
-- Se quiser tomar um "Mulligan", pressione o botão novamente
+- Se quiser tomar "mulligan", pressione o botão novamente
 
 A partir deste ponto você pode habilitar o turno do TTS se preferir ou jogar de forma mais livre. Você decide!
+
+(*) Codificador de Cartas Propagadas
+- Na parte inferior da mesa, acione o botão "Propagar"
+- A câmera irá automaticamente focar nesse painel
+- As cartas a serem propagadas irão aparecer no lado direito do codificador
+- Use os 5 ícones para configurar os bônus (com o mouse sobre o ícone aperte um número de 1 a 5)
+- Quando a configuração estiver pronta arraste a carta por cima do codificador da direita para a esquerda
+- Depois de codificar cada carta propagada, acione o botão "Parar"
+- Pressione barra de espaço e reagrupe as cartas sobre o seu baralho
