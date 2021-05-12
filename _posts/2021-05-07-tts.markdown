@@ -35,7 +35,7 @@ selecionando "Rise of the Keyraken", e selecionar "Aleatório".
 Siga os seguintes passos para jogar depois que ambos os jogadores estiverem conectados:
 - SHIFT-1 e cole o ID do seu baralho para importá-lo
 - Depois que a listagem de cartas aparecer pressione a barra de espaço
-- Se se baralho tiver "Propagar", use o codificador (*)
+- Se seu baralho tiver "Propagar", use o codificador (*)
 - Use o botão "Iniciar" para organizar as fichas e embaralhar suas cartas
 - Sua mão será comprada automaticamente
 - Se quiser tomar "mulligan", pressione o botão novamente
