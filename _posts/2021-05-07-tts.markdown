@@ -29,8 +29,10 @@ Essa oficina contém tudo o que você precisa para jogar sozinho ou contra um ad
 Além de carregar um baralho específico através do painel é possível buscar um baralho aleatório. Nesse caso você pode escolher
 entre todos os baralhos descobertos ou filtrar por conjunto.
 
-Também é possível carregar o baralho da aventura "Rise of the Keyraken" e jogar solo contra esse chefão! Basta filtrar por conjunto,
-selecionando "Rise of the Keyraken", e selecionar "Aleatório".
+Também é possível carregar os baralhos das aventuras para jogar solo. Basta filtrar por conjunto e selecionar "Aleatório".
+As aventuras disponíveis são:
+- Rise of the Keyraken
+- The Abyssal Conspiracy
 
 Siga os seguintes passos para jogar depois que ambos os jogadores estiverem conectados:
 - SHIFT-1 e cole o ID do seu baralho para importá-lo
