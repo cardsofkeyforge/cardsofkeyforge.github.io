@@ -21,7 +21,7 @@ na seção de suporte em **Print-and-Play Materials**.
 |----|----|
 | Casas | ![Keyraken](https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/keyraken.png) |
 | Número | Adventure 002 |
-| Símbolo | <img src="https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/rotk.png" alt="rotk" style="background-color: gray; border-radius: 14px; padding: 5px;"/> |
+| Símbolo | <img src="https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/tac/tac.png" alt="rotk" style="background-color: gray; border-radius: 14px; padding: 5px;"/> |
 | Lançamento | 14 de maio de 2021 |
 | Cartas | [58](cards) |
 | Cartas Inéditas | 33 |
