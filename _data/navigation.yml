@@ -14,9 +14,9 @@
 - name: Aventuras
   link: /#
   dropdown:
-    - name: Rise of the Keyraken
+    - name: Ascensão de Keyraken
       link: /rotk/
-    - name: The Abyssal Conspiracy
+    - name: A Conspiração Abissal
       link: /tac/
 - name: Publicações
   link: /blog/

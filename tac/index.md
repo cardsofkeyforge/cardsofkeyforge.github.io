@@ -1,12 +1,12 @@
 ---
-title: The Abyssal Conspiracy
+title: A Conspiração Abissal
 subtitle: 14 de maio de 2021
 layout: page
 show_sidebar: false
 hero_image: /assets/aoaBackground.jpg
 ---
 
-**The Abyssal Conspiracy** é a segunda aventura  de **KeyForge**, anunciada através do portal da
+**A Conspiração Abissal** é a segunda aventura  de **KeyForge**, anunciada através do portal da
 _Fantasy Flight Games_ em 11 de março de 2021 e lançada em 14 de maio de 2021. KeyForge Adventures
 são um conjunto de aventuras de KeyForge para serem jogadas de forma cooperativa com até 3 jogadores.
 
@@ -21,7 +21,7 @@ O material traduzido para o português fica [aqui](https://drive.google.com/driv
 ## Especificação
 
 |----|----|
-| Casas | ![Keyraken](https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/tac/conspiracy.png) |
+| Casas | ![Conspiracy](https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/tac/conspiracy.png) |
 | Número | Adventure 002 |
 | Símbolo | <img src="https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/tac/tac.png" alt="tac" style="background-color: gray; border-radius: 14px; padding: 5px;"/> |
 | Lançamento | 14 de maio de 2021 |

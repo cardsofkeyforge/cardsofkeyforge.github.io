@@ -1,12 +1,12 @@
 ---
-title: Rise of the Keyraken
+title:  Ascensão de Keyraken
 subtitle: 23 de abril de 2021
 layout: page
 show_sidebar: false
 hero_image: /assets/cotaBackground.jpg
 ---
 
-**Rise of the Keyraken** é a primeira aventura  de **KeyForge**, anunciada através do portal da
+**Ascensão de Keyraken** é a primeira aventura  de **KeyForge**, anunciada através do portal da
 _Fantasy Flight Games_ em 11 de março de 2021 e lançada em 23 de abril de 2021. KeyForge Adventures
 são um conjunto de aventuras de KeyForge para serem jogadas de forma cooperativa com até 3 jogadores.
 
