@@ -16,6 +16,8 @@ A carta de Maré especial é diferente da tradicional tanto no jogo, quanto no f
 As regras podem ser obtidas visitando a página [aqui](https://drafts.fantasyflightgames.com/en/products/keyforge/)
 na seção de suporte em **Print-and-Play Materials**.
 
+O material traduzido para o português fica [aqui](https://drive.google.com/drive/folders/1gmWRM_sWjeGkP23eUrkVJe196NZuEqBD).
+
 ## Especificação
 
 |----|----|
@@ -26,4 +28,4 @@ na seção de suporte em **Print-and-Play Materials**.
 | Cartas | [58](cards) |
 | Cartas Inéditas | 33 |
 | Projeto e Desenvolvimento | Aaron Haltom e Tyler Parrott com Daniel Schaefer |
-| Idiomas | 1: inglês |
+| Idiomas | 3: inglês, francês e português |

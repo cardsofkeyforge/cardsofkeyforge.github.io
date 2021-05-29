@@ -18,6 +18,8 @@ do que as outras cartas.
 As regras podem ser obtidas visitando a página [aqui](https://drafts.fantasyflightgames.com/en/products/keyforge/)
 na seção de suporte em **Print-and-Play Materials**.
 
+O material traduzido para o português fica [aqui](https://drive.google.com/drive/folders/1PUcbjI4SlkLp9p8gnedwduU2vx3f_SBX).
+
 ## Especificação
 
 |----|----|
@@ -28,4 +30,4 @@ na seção de suporte em **Print-and-Play Materials**.
 | Cartas | [47](cards) |
 | Cartas Inéditas | 28 |
 | Projeto e Desenvolvimento | Aaron Haltom e Tyler Parrott com Brad Andres |
-| Idiomas | 2: inglês e francês |
+| Idiomas | 3: inglês, francês e português |
