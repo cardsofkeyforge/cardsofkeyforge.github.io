@@ -29,7 +29,7 @@ ready(() => {
           .filter(c => c.card_title === cardName)
           .forEach(c => {
             let setName = c.set.replace(/anomaly/, "wc");
-            sets += `<a href="/${setName}/${c.card_number}"><img src="${setMap[setName]}" alt="${setName}" style="background-color: gray; border-radius: 14px; padding: 5px; --darkreader-inline-bgcolor:#60686c;" data-darkreader-inline-bgcolor=""></a>`;
+            sets += `<a href="/${setName}/${c.card_number}"><img title="${c.card_number}" src="${setMap[setName]}" alt="${setName}" style="background-color: gray; border-radius: 14px; padding: 5px; --darkreader-inline-bgcolor:#60686c;" data-darkreader-inline-bgcolor=""></a> `;
           });
         document.getElementsByTagName("td")[1].innerHTML = sets;
       }
