@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Novidades no ar!"
+title:  "Novidades no Ar!"
 subtitle: Ghost Galaxy adquire os direitos de KeyForge
 date:   2022-07-13 09:18:00
 categories: keyforge
