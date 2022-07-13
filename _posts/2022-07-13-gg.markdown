@@ -10,10 +10,6 @@ published: true
 hero_image: /assets/aoaBackground.jpg
 ---
 
-[TTS (Tabletop Simulator)](https://store.steampowered.com/app/286160/Tabletop_Simulator/) é um simulador onde você pode jogar
-praticamente qualquer jogo que você jogaria em uma mesa!
-Não há regras a serem seguidas: apenas você, uma mesa com os elementos físicos e seus amigos.
-
 A Ghost Galaxy anunciou no dia 22 de junho de 2022 que adquiriram a propriedade intelectual e os direitos de publicação do jogo KeyForge da Asmodee.
 
 Ghost Galaxy foi fundada por Christian T. Petersen, o mesmo que também fundou a Fantasy Flight Games. Christian havia feito o acordo original com
