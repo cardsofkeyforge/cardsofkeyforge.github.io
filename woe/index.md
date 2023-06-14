@@ -32,4 +32,4 @@ de conjuntos futuros.
 | Cartas Inéditas | 262 |
 | Anomalias | [3](anomalies) |
 | Projeto e Desenvolvimento | Brad Andres, Daniel Schaefer e Aaron Haltom |
-| Idiomas | 11: inglês, francês, alemão, italiano, português, espanhol, chinês simplificado, chinês tradicional e coreano |
+| Idiomas | 9: inglês, francês, alemão, italiano, português, espanhol, chinês simplificado, chinês tradicional e coreano |

@@ -31,4 +31,4 @@ Existem 10 Anomalias disponíveis em Colisão entre Mundos (estas em adicional �
 | Anomalias | [10](anomalies) |
 | Projetista | Richard Garfield |
 | Projeto e Desenvolvimento | Brad Andres, Skaff Elias, Richard Garfield, Aaron Haltom e Daniel Schaefer |
-| Idiomas | 11: inglês, francês, alemão, italiano, polonês, português, espanhol, chinês simplificado, chinês tradicional e tailandês |
+| Idiomas | 10: inglês, francês, alemão, italiano, polonês, português, espanhol, chinês simplificado, chinês tradicional e tailandês |
