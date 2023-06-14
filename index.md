@@ -57,6 +57,17 @@ Inclui 280 novas cartas, num total de 428 cartas. A casa Dis foi retirada pela p
 Nesse conjunto cada baralho virá com uma 38ª carta, a ficha de maré. A mecânica de maré aparece pela primeira vez, onde os jogadores
 poderão subir a maré do jogo para obter efeitos mais poderosos com certas cartas.
 
+## Winds of Exchange
+
+O sexto conjunto **KeyForge**, **Winds of Exchange** (ainda em processo de tradução), foi anunciado em 10 de setembro de 2021.
+No entanto, devido à perda do algoritmo de construção dos baralhos, nenhuma data de lançamento havia sido anunciada na época.
+
+Em junho de 2022, a **Ghost Galaxy** (o novo empreendimento de Christian T. Petersen, fundador da _Fantasy Flight Games_)
+adquiriu os direitos de **KeyForge** da Asmodee e, em agosto de 2022, anunciou que o **Winds of Exchange** seria financiado por
+meio da _Gamefound_. A campanha lançada em 9 de setembro atingiu sua meta de financiamento em 27 minutos e arrecadou mais de US$1,1M
+de mais de 6.000 patrocinadores. O conjunto começou a ser enviado aos patrocinadores em maio de 2023, antes do lançamento no varejo
+que é esperado para julho de 2023.
+
 # Comunidade Brasileira de KeyForge
 
 Venha participar e contribuir com a nossa comunidade:
