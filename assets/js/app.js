@@ -12,6 +12,7 @@ ready(() => {
     "wc": "https://archonarcana.com/images/thumb/b/b7/Wc.png/19px-Wc.png",
     "mm": "https://archonarcana.com/images/thumb/e/e7/Mm.png/19px-Mm.png",
     "dt": "https://archonarcana.com/images/thumb/0/03/Dt.png/19px-Dt.png",
+    "woe": "https://archonarcana.com/images/thumb/4/41/Woe.png/20px-Woe.png",
     "rotk": "https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/rotk/rotk.png",
     "tac": "https://raw.githubusercontent.com/cardsofkeyforge/cardsofkeyforge.github.io/master/tac/tac.png"
   };
@@ -31,7 +32,7 @@ ready(() => {
             let setName = c.set.replace(/anomaly/, "wc");
             sets += `<a href="/${setName}/${c.card_number}"><img title="${c.card_number}" src="${setMap[setName]}" alt="${setName}" style="background-color: gray; border-radius: 14px; padding: 5px; --darkreader-inline-bgcolor:#60686c;" data-darkreader-inline-bgcolor=""></a> `;
           });
-        document.getElementsByTagName("td")[1].innerHTML = sets;
+        if (sets.length > 0) document.getElementsByTagName("td")[1].innerHTML = sets;
       }
     });
 
