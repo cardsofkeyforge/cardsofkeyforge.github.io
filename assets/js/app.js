@@ -29,7 +29,7 @@ ready(() => {
         cards
           .filter(c => c.card_title === cardName)
           .forEach(c => {
-            let setName = c.set.replace(/anomaly/, "wc");
+            let setName = (c.card_number > "A10" ? c.set.replace(/anomaly/, "woe") : c.set.replace(/anomaly/, "wc"));
             sets += `<a href="/${setName}/${c.card_number}"><img title="${c.card_number}" src="${setMap[setName]}" alt="${setName}" style="background-color: gray; border-radius: 14px; padding: 5px; --darkreader-inline-bgcolor:#60686c;" data-darkreader-inline-bgcolor=""></a> `;
           });
         if (sets.length > 0) document.getElementsByTagName("td")[1].innerHTML = sets;
