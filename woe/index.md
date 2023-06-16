@@ -31,5 +31,5 @@ de conjuntos futuros.
 | Cartas | [403](cards) |
 | Cartas Inéditas | 262 |
 | Anomalias | [3](anomalies) |
-| Projeto e Desenvolvimento | Brad Andres, Daniel Schaefer e Aaron Haltom |
+| Projeto e Desenvolvimento | Michael Hurley, Tyler Parrott e Dan Schaefer |
 | Idiomas | 9: inglês, francês, alemão, italiano, português, espanhol, chinês simplificado, chinês tradicional e coreano |
