@@ -1,21 +1,21 @@
 ---
-title: Winds of Exchange
+title: Troca de Ares
 subtitle: 05 de junho de 2023
 layout: page
 show_sidebar: false
 hero_image: hero.png
 ---
 
-O sexto conjunto **KeyForge**, **Winds of Exchange** (ainda em processo de tradução), foi anunciado em 10 de setembro de 2021.
+O sexto conjunto **KeyForge**, **Troca de Ares** (ainda em processo de tradução), foi anunciado em 10 de setembro de 2021.
 No entanto, devido à perda do algoritmo de construção dos baralhos, nenhuma data de lançamento havia sido anunciada na época.
 
 Em junho de 2022, a **Ghost Galaxy** (o novo empreendimento de Christian T. Petersen, fundador da _Fantasy Flight Games_)
-adquiriu os direitos de **KeyForge** da Asmodee e, em agosto de 2022, anunciou que o **Winds of Exchange** seria financiado por
+adquiriu os direitos de **KeyForge** da Asmodee e, em agosto de 2022, anunciou que o **Troca de Ares** seria financiado por
 meio da _Gamefound_. A campanha lançada em 9 de setembro atingiu sua meta de financiamento em 27 minutos e arrecadou mais de US$1,1M
 de mais de 6.000 patrocinadores. O conjunto começou a ser enviado aos patrocinadores em maio de 2023, antes do lançamento no varejo
 que é esperado para julho de 2023.
 
-**Winds of Exchange** apresenta a maior rotação de casas até agora, com Logos, Sombras e Indomados deixando o jogo pela primeira vez.
+**Troca de Ares** apresenta a maior rotação de casas até agora, com Logos, Sombras e Indomados deixando o jogo pela primeira vez.
 Marte e Brobnar estão de volta, juntamente com a introdução da 11ª casa, **Ekwidon**. As quatro casas restantes apresentadas no conjunto
 são Santuário, Sauro, Aliança Estelar e Abissais. A principal nova mecânica do conjunto são as criaturas do tipo _token_. Como um
 objetivo estendido desbloqueado na campanha do projeto, o conjunto também apresentará o retorno das anomalias, cartas raras

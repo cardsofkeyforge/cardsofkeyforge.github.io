@@ -1,5 +1,5 @@
 ---
-title: Winds of Exchange
+title: Troca de Ares
 subtitle: 05 de junho de 2023
 layout: page
 show_sidebar: false
