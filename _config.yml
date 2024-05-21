@@ -18,7 +18,7 @@ disqus:
 # shortname: my_disqus_shortname
 
 #theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 plugins:
   - jekyll-sitemap
