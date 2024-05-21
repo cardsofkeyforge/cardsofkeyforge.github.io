@@ -7,6 +7,8 @@ $primary: #188eac !default;
 $tabs-link-active-color: $primary;
 $tabs-link-active-border-bottom-color: $primary;
 
+$modal-content-width: 800px;
+
 @import "../node_modules/bulma/sass";
 @import "../node_modules/bulma/sass/utilities/mixins";
 $hero-darken: $dark !default;
@@ -14,7 +16,7 @@ $hero-darken: $dark !default;
 @import "layout";
 @import "syntax";
 @import "showcase";
-@import "../node_modules/bulma-block-list/src/block-list.scss";
+@import "block-list";
 
 .gh-sponsor {
   color: #ea4aaa;
