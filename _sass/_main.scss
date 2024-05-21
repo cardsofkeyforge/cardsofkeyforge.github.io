@@ -7,8 +7,8 @@ $primary: #188eac !default;
 $tabs-link-active-color: $primary;
 $tabs-link-active-border-bottom-color: $primary;
 
-@import "../node_modules/bulma/bulma.scss";
-@import "../node_modules/bulma/sass/themes/dark.scss";
+@import "../node_modules/bulma/sass";
+@import "../node_modules/bulma/sass/utilities/mixins";
 $hero-darken: $dark !default;
 
 @import "layout";
