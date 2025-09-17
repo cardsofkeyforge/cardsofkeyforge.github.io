@@ -9,4 +9,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
  gem "github-pages", group: :jekyll_plugins
  gem "bulma-clean-theme"
 
- gem "rexml", "~> 3.3"
+ gem "rexml", "~> 3.4"
